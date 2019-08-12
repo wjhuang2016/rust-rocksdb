@@ -1,7 +1,7 @@
 [submodule "rocksdb"]
 	path = librocksdb_sys/rocksdb
 	url = https://github.com/wjhuang2016/rocksdb
-	branch = tikv-3.0
+	branch = new_tikv_3.0
 [submodule "titan"]
 	path = librocksdb_sys/libtitan_sys/titan
 	url = https://github.com/lhy1024/titan
